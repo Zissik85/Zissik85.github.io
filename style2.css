@@ -8,6 +8,9 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+body {
+  margin: 0;
+}
 article,
 aside,
 details,
@@ -38,7 +41,9 @@ audio:not([controls]) {
 template {
   display: none;
 }
-
+a {
+  background-color: transparent;
+}
 a:active,
 a:hover {
   outline: 0;
@@ -1080,7 +1085,13 @@ html {
   font-size: 10px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
 button,
 input,
 select,
@@ -6767,7 +6778,7 @@ button.close {
   margin: 1px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: #0009;
+  background-color: #000\9;
   background-color: rgba(0, 0, 0, 0);
   border: 1px solid #fff;
   border-radius: 10px;
