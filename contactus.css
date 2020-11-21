@@ -46,3 +46,9 @@ input[type="submit"] {
   height: 100px;
   width: 100%;
 }
+
+div h1 {
+  font-weight: bold;
+  font-size: 50px;
+  font-family: "Modak", cursive, italic;
+}
