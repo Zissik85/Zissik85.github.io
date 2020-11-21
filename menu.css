@@ -1,0 +1,17 @@
+.container {
+  max-width: 500px;
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  width: 35%;
+  margin: auto;
+  margin-top: 110px;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+div h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
