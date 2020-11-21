@@ -1,0 +1,27 @@
+#locationsbody {
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  width: 35%;
+  margin: auto;
+  margin-top: 210px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#border {
+  border: 3px solid gray;
+}
+
+#locations {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+p {
+  font-size: 22px;
+  padding: 10px;
+}
+
+li {
+  text-align: left;
+  font-size: 25px;
+}
