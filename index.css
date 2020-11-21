@@ -1,0 +1,26 @@
+#indexbody {
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  width: 35%;
+  margin: auto;
+  margin-top: 210px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#border {
+  border: 3px solid gray;
+}
+
+div h2 {
+  font-weight: bold;
+  font-size: 50px;
+  font-family: "Modak", cursive, italic;
+}
+
+.news {
+  column-count: 3;
+  column-gap: 20px;
+  column-rule-style: solid;
+  font-size: 16px;
+  padding: 10px;
+}
