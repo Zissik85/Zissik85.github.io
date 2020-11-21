@@ -24,9 +24,13 @@
     </div>
     <div  id="contactusbody">
       <div id="border">
-        <form action="https://formspree.io/f/myybpavz" method="POST">
-          <input type="text" name="name">
-          <input type="email" name="_replyto">
+        <form action="https://formspree.io/f/myybpavz" method="POST" id="form">
+          <label for="name">Your Name</label>
+          <input type="text" id="name" name="name" placeholder="Name" required>
+          <label for="email">E-mail Address</label>
+          <input type="email" id="email" name="email" placeholder="Email" required>
+          <label for="comment">Comment/Issue</label>
+          <input type="text" id="comment" name="name" placeholder="Leave your comment here" required> 
           <input type="submit" value="Send">
         </form> 
       </div>
