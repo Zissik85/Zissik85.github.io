@@ -25,3 +25,22 @@ li {
   text-align: left;
   font-size: 25px;
 }
+
+#comment {
+  height: 30px;
+}
+
+#form {
+}
+
+input {
+  width: 100%;
+}
+
+input[type="submit"]:hover {
+  background-color: red;
+}
+
+input[type="submit"] {
+  background-color: orange;
+}
