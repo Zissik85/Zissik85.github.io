@@ -13,16 +13,16 @@
 
 #locations {
   font-weight: bold;
-  font-size: 50px;
+  font-size: 30px;
   font-family: "Modak", cursive, italic;
 }
 
 p {
-  font-size: 22px;
+  font-size: 16px;
   padding: 10px;
 }
 
 li {
   text-align: left;
-  font-size: 25px;
+  font-size: 15px;
 }
